@@ -1,6 +1,6 @@
 # Acciojob_Weekly_Contest_F3_25.03.2023
 - The project is about displaying the current location of the device. The project also implments the use of local storage to display already fetched location.
-- Deployed Link: https://slolusare96.github.io/Acciojob_Weekly_Contest_F3_25.03.2023/
+- Deployed Link: https://shubham-lolusare.github.io/Acciojob_Weekly_Contest_F3_25.03.2023/
 
 # Project Overview (100 Marks)
 - The task is to build a web application that fetches a user's geolocation using the Geolocation API, saves the coordinates in localStorage, and displays the location on a map. Your task is to create an HTML file with a button to fetch the user's geolocation and a div to display the map, a JavaScript file to handle the geolocation and map integration, and a CSS file to style the HTML elements.
